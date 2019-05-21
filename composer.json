@@ -1,0 +1,18 @@
+{
+    "name": "caicedo1089/composer-one",
+    "description": "Es mi primera librería en composer",
+    "type": "MIT",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pedro Caicedo",
+            "email": "caicedo1089@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Say\\": "src/"
+        }
+    }
+}
